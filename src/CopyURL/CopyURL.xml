@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<widget id="CopyURL.widget.CopyURL" needsEntityContext="true" xmlns="http://www.mendix.com/widget/1.0/">
+    <name>CopyURL</name>
+    <description>Generates an input textbox with a integrated copy button</description>
+
+    <icon />
+
+    <properties>
+        <property key="targetAttribute" type="attribute">
+            <caption>Attribute</caption>
+            <category>Appearance</category>
+            <description></description>
+            <attributeTypes>
+                <attributeType name="String" />
+            </attributeTypes>
+        </property>
+    </properties>
+</widget>
+
