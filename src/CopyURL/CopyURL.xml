@@ -12,6 +12,10 @@
             <description></description>
             <attributeTypes>
                 <attributeType name="String" />
+				<attributeType name="Integer" />
+				<attributeType name="Float" />
+				<attributeType name="Decimal" />
+				<attributeType name="AutoNumber" />
             </attributeTypes>
         </property>
 		<property key="prefix" type="string" required="false">
