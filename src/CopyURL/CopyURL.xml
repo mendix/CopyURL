@@ -8,11 +8,16 @@
     <properties>
         <property key="targetAttribute" type="attribute">
             <caption>Attribute</caption>
-            <category>Appearance</category>
+            <category>Data Source</category>
             <description></description>
             <attributeTypes>
                 <attributeType name="String" />
             </attributeTypes>
+        </property>
+		<property key="prefix" type="string" required="false">
+            <caption>Prefix</caption>
+            <category>Data Source</category>
+            <description></description>
         </property>
     </properties>
 </widget>
